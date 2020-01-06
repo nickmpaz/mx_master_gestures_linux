@@ -7,6 +7,11 @@ This is a hacky implementation of those gesture controls. It uses
 a keyboard shortcut for the MX Master thumb button to run a script. The
 script listens for mouse movements and acts accordingly.
 
+## Dependencies
+
+- Python3
+- xdotool
+
 ## Setup
 
 Create a keyboard shortcut for Ctrl + Alt + Tab that runs this script.
