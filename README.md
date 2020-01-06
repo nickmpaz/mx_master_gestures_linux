@@ -13,7 +13,8 @@ Create a keyboard shortcut for Ctrl + Alt + Tab that runs this script.
 
 ## Controls
 
-- Up - Move up a workspace
-- Down - Move down a workspace
-- Left - Send window left a screen
-- Right - Send window right a screen
+- None  - Press super key            - super
+- Up    - Move up a workspace        - ctrl+alt+up
+- Down  - Move down a workspace      - ctrl+alt+down
+- Left  - Send window left a screen  - shift+super+left
+- Right - Send window right a screen - shift+super+right
